@@ -1,8 +1,8 @@
 # thirdTest
 
 ## main
-##main edit
+## main edit
 
-##braA
+## braA
 
-##mainEdit in braA
+## mainEdit in braA
